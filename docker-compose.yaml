@@ -1,0 +1,8 @@
+version: "3"
+services:
+   one:
+     image: "hello-world"
+   
+   two: 
+     image: "ubuntu:18.04"
+
